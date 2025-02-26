@@ -1,2 +1,7 @@
-<h1>Welcome to Logan's website</h1>
-<p>work in progress.... lol</p>
+<h1>Logan Magaha</h1>
+
+<style>
+    :global(h1) {
+        text-align: center;
+    }
+</style>
