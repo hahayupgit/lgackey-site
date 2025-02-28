@@ -23,7 +23,7 @@ export default {
 			// static site routing to DigitalOcean
 			// set DigitalOcean site custom pages 
 			// Catchall to "index.html"
-			fallback: "index.html", 
+			fallback: "fallback.html", 
 			precompress: false,
 			strict: true
 		})
