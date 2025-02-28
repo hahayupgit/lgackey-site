@@ -20,7 +20,8 @@ export default {
 			// these options are set automatically — see below
 			pages: 'build',
 			assets: 'build',
-			fallback: undefined,
+			// static site routing to DigitalOcean
+			fallback: "index.html", 
 			precompress: false,
 			strict: true
 		})
