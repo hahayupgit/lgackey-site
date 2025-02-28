@@ -21,6 +21,8 @@ export default {
 			pages: 'build',
 			assets: 'build',
 			// static site routing to DigitalOcean
+			// set DigitalOcean site custom pages 
+			// Catchall to "index.html"
 			fallback: "index.html", 
 			precompress: false,
 			strict: true
