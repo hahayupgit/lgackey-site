@@ -1,5 +1,5 @@
 <script>
-    import lgackey_logo from '$lib/resources/lgackey.svg'
+    import lgackey_logo from '$lib/resources/lgackey.png'
 </script>
 
 <img src={lgackey_logo} alt="lgackey">
